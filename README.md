@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to **YOUR_NAME's GitHub**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to **Tanya's GitHub**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
@@ -11,11 +11,10 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name: YOUR_NAME
+Name: Tanya Deep
 Role: Information Science Engineering Student
-Focus: Data Science | AI | Machine Learning
+Focus: Data Science | AI/ML | UI/UX
 Currently Learning: Advanced ML & Research Projects
-Goal: MS Abroad + Strong Research Profile
 ```
 
 * 🚀 Building real-world projects
