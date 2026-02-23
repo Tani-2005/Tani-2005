@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20Universe&fontAlign=50&fontAlignY=40&color=0:1a002b,50:4b0082,100:14001f&fontColor=f5e9ff&animation=fadeIn"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+UI/UX;Building+the+Future+in+Code" />
