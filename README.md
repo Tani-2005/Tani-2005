@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;AI+%7C+Research+%7C+Creation;Building+the+Future+in+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+UI/UX;Building+the+Future+in+Code" />
 </p>
 
 ---
@@ -11,13 +11,12 @@
 # 🦋 about me
 
 ```yaml
-name: YOUR_NAME
+name: Tanya Deep
 role: Information Science Engineering Student
 focus:
   - Artificial Intelligence
   - Data Science
   - Machine Learning Research
-aesthetic: dark • minimal • precise
 goal: top-tier projects + MS abroad
 ```
 
