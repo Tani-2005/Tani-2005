@@ -1,5 +1,7 @@
 
 ![e791611718215a0cfc0ab96e71d1dc3f](https://github.com/user-attachments/assets/d14c54e7-5537-4b43-bcb4-18b409857ba1)
+![918155387ad114a903cba1a13506e3be](https://github.com/user-attachments/assets/208ee302-ee52-48b3-804e-2765334c2a3f)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+UI/UX;Building+the+Future+in+Code" />
@@ -32,20 +34,6 @@ goal: top-tier projects + MS abroad
 <img src="https://img.shields.io/badge/Machine%20Learning-4b0082?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Science-2b003a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-1a001f?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-
-## 🌌 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-2d003f?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-3a005c?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-1c002e?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-4b0082?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2b003a?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-1a001f?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
