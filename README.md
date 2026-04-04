@@ -36,29 +36,45 @@ goal: top-tier projects + MS abroad
 
 ---
 
-## 🧬 featured projects
 
-* 🦾 AI Powered Planner
-* 📊 Interactive Data Dashboard
-* ✈️ Airline Booking System (Java + MySQL)
-* 🔬 Research Experiments in ML
-
----
-
-## 🎯 current mission
-
-* publish research paper
-* build industry-level AI projects
-* strengthen DS portfolio
-* prepare for MS abroad
-
----
-
-## 🌑 connect
+## 🌌 Tech Stack
 
 <p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2b003a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-3a005c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Python-2d003f?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-3a005c?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-1c002e?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-4b0082?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2b003a?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-1a001f?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🧬 Featured Projects
+
+### 🔹 AETHEL
+AI-focused flagship project demonstrating applied problem-solving and product thinking.
+
+### 🔹 Dengue Engine
+Data science and forecasting project focused on dengue-related prediction workflows. [cite:17]
+
+### 🔹 NIRVAMI
+AI for mental health project integrating yoga and Ayurveda for personalised wellness support. [cite:18][cite:24]
+
+---
+
+## 🌑 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/tanya-deep">
+    <img src="https://img.shields.io/badge/LinkedIn-2b003a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tanya.s.deep@gmail.com">
+    <img src="https://img.shields.io/badge/Email-3a005c?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Tani-2005">
+    <img src="https://img.shields.io/badge/GitHub-1a001f?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
