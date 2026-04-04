@@ -2,6 +2,7 @@
 ![e791611718215a0cfc0ab96e71d1dc3f](https://github.com/user-attachments/assets/d14c54e7-5537-4b43-bcb4-18b409857ba1)
 ![05f17d6e87ad18f65940f896f4cf11a4](https://github.com/user-attachments/assets/c19c453e-4ffd-4eb6-ab7f-ed122001d000)
 
+https://i.pinimg.com/originals/eb/43/a4/eb43a47ed71b0a754776d833ba31ba12.gif
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;AI+%7C+ML+%7C+UI/UX;Building+the+Future+in+Code" />
