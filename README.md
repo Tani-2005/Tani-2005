@@ -8,7 +8,7 @@
 
 ---
 
-# 🦋 about m
+# 🦋 about me
 
 ```yaml
 name: Tanya Deep
