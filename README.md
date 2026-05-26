@@ -8,7 +8,10 @@
 <!--  🎞️  DROP YOUR GIF HERE                                  -->
 <!--  upload your gif into this repo then replace the src     -->
 <!--  recommended width: 100% or ~800px                       -->
-<!--                                                          -->
+  
+  <p align="center">                                       
+  <img width="498" height="261" alt="1ea66601f1ee09b578c40feee6ecd953" src="https://github.com/user-attachments/assets/359583c6-acd9-4012-a825-b81ce3ef2c28" />  
+      </p>                                       
 <!--  <p align="center">                                       -->
 <!--    <img src="YOUR_GIF_FILENAME.gif" width="100%"/>        -->
 <!--  </p>                                                     -->
