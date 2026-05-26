@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=B388FF&center=true&vCenter=true&width=500&lines=ISE+%40+RVCE+Bangalore+%F0%9F%87%AE%F0%9F%87%B3;AI+%7C+ML+%7C+Data+Science;Open+to+EU+Internships+%F0%9F%87%AA%F0%9F%87%BA;%22Code+is+not+just+logic+%E2%80%94+it%27s+atmosphere.%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=B388FF&center=true&vCenter=true&width=500&lines=ISE+%40+BMSIT+Bangalore+%F0%9F%87%AE%F0%9F%87%B3;AI+%7C+ML+%7C+Data+Science;Open+to+EU+Internships+%F0%9F%87%AA%F0%9F%87%BA;%22Code+is+not+just+logic+%E2%80%94+it%27s+atmosphere.%22" />
 </p>
 
 ---
@@ -30,13 +30,12 @@ name      : Tanya Deep
 handle    : Tani-2005
 pronouns  : she/her
 location  : Bangalore, India 🇮🇳
-degree    : B.E. Information Science Engineering @ RVCE
+degree    : B.E. Information Science Engineering @ BMSIT
 
 focus:
-  - Artificial Intelligence
+  - Data Science & Analysis
   - Machine Learning Research
-  - Data Science & Forecasting
-  - UI/UX Design
+  - Artificial Intelligence
 
 currently_building:
   - Clinical AI for risk stratification (AETHEL)
