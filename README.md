@@ -39,8 +39,8 @@ currently_building:
   - Clinical trial outcome prediction (XGBoost · RDKit · FastAPI)
   - AI mental health companion (yoga + Ayurveda knowledge graph)
 
-available  : EU Internships — on-site Lausanne · Jul 2026 or Jan 2027 ✈️
-goal       : top-tier EU research internship · MS abroad
+available  : EU Internships — on-site/hybrid/remote ✈️
+goal       : top-tier EU internship · MS abroad
 ```
 
 > *"Code is not just logic — it's atmosphere."*
