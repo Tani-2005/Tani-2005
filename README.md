@@ -1,123 +1,164 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0221,40:2d0a4e,100:4b0082&text=Tanya%20Deep&fontColor=e0d0ff&fontSize=46&fontAlignY=38&desc=tani-2005%20%E2%80%A2%20she%2Fher%20%E2%80%A2%20bengaluru&descSize=15&descAlignY=58&descFontColor=9d7cd8&animation=fadeIn"/>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  REPLACE THIS BLOCK WITH YOUR GIF                         -->
-<!--  upload your gif to the repo and change the src below     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--
-<img src="YOUR_GIF_HERE.gif" width="100%" />
--->
-
-<br/>
-
-```
-▀█▀ ▄▀█ █▄░█ █▄█ ▄▀█   █▀▄ █▀▀ █▀▀ █▀█
-░█░ █▀█ █░▀█  █  █▀█   █▄▀ ██▄ ██▄ █▀▀
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1400&color=9D7CD8&center=true&vCenter=true&width=460&lines=health+AI+%C2%B7+ml+engineer+%C2%B7+data+science;195+countries.+975+nodes.+zero+manual+entry.;open+to+EU+internships+%E2%80%94+Lausanne+%C2%B7+Jul+2026" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=B388FF&center=true&vCenter=true&width=620&lines=Health+AI+%C2%B7+ML+Engineer+%C2%B7+Data+Scientist;195+countries+%C2%B7+975+nodes+%C2%B7+zero+manual+entry;Google+Student+Ambassador+%F0%9F%8C%8D;Open+to+EU+Internships+%E2%80%94+Lausanne+Jul+2026+%E2%9C%88%EF%B8%8F;%22Code+is+not+just+logic+%E2%80%94+it%27s+atmosphere.%22" />
+</p>
 
 ---
 
-<br/>
+<!--  ═══════════════════════════════════════════════════════  -->
+<!--  🎞️  DROP YOUR GIF HERE                                  -->
+<!--  upload your gif into this repo then replace the src     -->
+<!--  recommended width: 100% or ~800px                       -->
+<!--                                                          -->
+<!--  <p align="center">                                       -->
+<!--    <img src="YOUR_GIF_FILENAME.gif" width="100%"/>        -->
+<!--  </p>                                                     -->
+<!--  ═══════════════════════════════════════════════════════  -->
+
+---
+
+## 🦋 &nbsp;about me
 
 ```yaml
-# tanya_deep.yaml
+name      : Tanya Deep
+college   : BMSIT&M, Bengaluru  ·  B.E. Information Science Engineering
+cgpa      : 8.43 / 10
+role      : Google Student Ambassador · Data Scientist
 
-name       : Tanya Deep
-college    : BMSIT&M, Bengaluru  |  ISE  |  CGPA 8.43
-role       : Google Student Ambassador · ex-Data Science Intern
-building   : health AI · geospatial ML · clinical NLP pipelines
-open_to    : EU internships — on-site Lausanne Jul 2026 / Jan 2027
-contact    : tanya.s.deep@gmail.com
+focus:
+  - Health AI & Clinical ML
+  - Geospatial & Epidemiological Forecasting
+  - Explainable AI (SHAP)
+  - GenAI · NLP · LLM Pipelines
+
+currently_building:
+  - Population-scale health forecasting (195 countries · 975 nodes)
+  - Clinical trial outcome prediction (XGBoost · RDKit · FastAPI)
+  - AI mental health companion (yoga + Ayurveda knowledge graph)
+
+available  : EU Internships — on-site Lausanne · Jul 2026 or Jan 2027 ✈️
+goal       : top-tier EU research internship · MS abroad
 ```
 
-<br/>
+> *"Code is not just logic — it's atmosphere."*
 
 ---
 
-### work
+## 🕹️ &nbsp;tech stack
 
-**Google Student Ambassador** — Google · May 2026–present
-running GCP workshops on ML deployment and cloud pipelines across the BMSIT dev community
+**languages**
+<p>
+<img src="https://img.shields.io/badge/Python-2d003f?style=for-the-badge&logo=python&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/R-2d003f?style=for-the-badge&logo=r&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/SQL-2d003f?style=for-the-badge&logo=mysql&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/TypeScript-2d003f?style=for-the-badge&logo=typescript&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/Java-2d003f?style=for-the-badge&logo=openjdk&logoColor=e0d0ff"/>
+</p>
 
-**Data Science Intern** — The Developers Arena · Jan–Apr 2026
-production ML models · 95% CI deployment · 1000+ record pipeline QA
+**ml · ai · xai**
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-3a005c?style=for-the-badge&logo=scikitlearn&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/XGBoost-3a005c?style=for-the-badge&logo=python&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/PyTorch-3a005c?style=for-the-badge&logo=pytorch&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/TensorFlow-3a005c?style=for-the-badge&logo=tensorflow&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/SHAP-3a005c?style=for-the-badge&logo=python&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/HuggingFace-3a005c?style=for-the-badge&logo=huggingface&logoColor=e0d0ff"/>
+</p>
 
-**Data Analytics Intern** — CODTECH IT Solutions · Feb–Mar 2025
-SQL · Power BI / Tableau dashboards · NLP feature extraction
+**data · infra · tools**
+<p>
+<img src="https://img.shields.io/badge/Pandas-1c002e?style=for-the-badge&logo=pandas&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/NumPy-1c002e?style=for-the-badge&logo=numpy&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/FastAPI-1c002e?style=for-the-badge&logo=fastapi&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/Docker-1c002e?style=for-the-badge&logo=docker&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/Streamlit-1c002e?style=for-the-badge&logo=streamlit&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/AWS_EC2-1c002e?style=for-the-badge&logo=amazonaws&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/Git-1a001f?style=for-the-badge&logo=git&logoColor=e0d0ff"/>
+<img src="https://img.shields.io/badge/Figma-1a001f?style=for-the-badge&logo=figma&logoColor=e0d0ff"/>
+</p>
 
 ---
 
-### projects
+## 🧬 &nbsp;featured projects
 
-**[AETHEL — Population Health Engine](https://github.com/Tani-2005/AETHEL-Risk-Stratification-Clinical-Cohort-Analysis)**
+### 🔹 [AETHEL — Population Health Engine](https://github.com/Tani-2005/AETHEL-Risk-Stratification-Clinical-Cohort-Analysis)
 `Python` `R` `Scikit-learn` `SHAP` `Streamlit`
 
-ETL pipeline across 5 years of spatio-temporal health telemetry · 100 European cities · zero manual entry
-Random Survival Forest (500 trees) with SHAP hazard ratios · Streamlit dashboard for clinical stakeholders
+> ETL pipeline over **5 years** of spatio-temporal health telemetry across **100 European cities** — zero manual entry.
+> Random Survival Forest (500 trees) with SHAP hazard ratios. Streamlit dashboard for clinical stakeholders.
 
 ---
 
-**[Global Spatio-Temporal Disease Forecasting Engine](https://github.com/Tani-2005/Global-Dengue-Spatio-Temporal-Forecasting)**
+### 🔹 [Global Spatio-Temporal Disease Forecasting Engine](https://github.com/Tani-2005/Global-Dengue-Spatio-Temporal-Forecasting)
 `Python` `Scikit-learn` `SHAP` `GenAI` `LLM APIs` `Streamlit`
 
-3+ satellite data streams · 195 countries · 975 urban nodes
-SHAP explainability on every node · 80% reduction in analysis time · fully automated GenAI reporting
+> **195 countries · 975 urban nodes** · 3+ satellite data streams.
+> SHAP explainability on every node. Automated GenAI reporting — **80% reduction in analysis time**.
 
 ---
 
-**[Clinical Trial Success Likelihood Predictor](https://github.com/Tani-2005/AETHEL-Risk-Stratification-Clinical-Cohort-Analysis)**
+### 🔹 [Clinical Trial Success Predictor](https://github.com/Tani-2005/AETHEL-Risk-Stratification-Clinical-Cohort-Analysis)
 `XGBoost` `FastAPI` `React.js` `Docker` `SHAP` `RDKit`
 
-6 ML models benchmarked (XGBoost · RF · ANN · LR · DT · NB) · molecular SMILES features via RDKit
-full-stack: FastAPI backend + React/Tailwind dashboard + batch prediction + SHAP API + Docker
+> **6 ML models** benchmarked · molecular SMILES features (RDKit / ClinTox) · NLP text analysis.
+> Full-stack: FastAPI + React/Tailwind dashboard + batch prediction API + SHAP explanations + Docker.
 
 ---
 
-**[NIRVAMI — AI Mental Health Companion](https://github.com/Tani-2005/NIRVAMI)**
+### 🔹 [NIRVAMI — AI Mental Health Companion](https://github.com/Tani-2005/NIRVAMI)
 `TypeScript` `NLP`
 
-yoga + Ayurveda knowledge graph · personalised wellness recommendations · culturally grounded AI
+> Yoga + Ayurveda knowledge graph meets modern NLP.
+> Personalised, culturally grounded wellness support — AI that actually understands context.
 
 ---
 
-**[AI Research Paper Intelligence Engine](https://github.com/Tani-2005/AI-Research-Paper-Intelligence-Engine-Lite)**
+### 🔹 [AI Research Paper Intelligence Engine](https://github.com/Tani-2005/AI-Research-Paper-Intelligence-Engine-Lite)
 `HuggingFace` `BART` `Zero-Shot` `PyMuPDF`
 
-PDF → zero-shot classification → abstractive summarisation · end-to-end LLM document pipeline
+> PDF → zero-shot classification → abstractive summarisation (BART).
+> End-to-end LLM document pipeline for accelerating literature review.
 
 ---
 
-### stack
+## 📊 &nbsp;stats
 
-```
-languages   python · r · sql · typescript · java
-ml          scikit-learn · xgboost · pytorch · tensorflow · survival forests
-xai         shap · feature importance · auditable clinical predictions
-nlp         huggingface · bart · zero-shot · llm apis
-infra       docker · fastapi · streamlit · aws ec2 · mysql · git
-design      figma
-```
-
----
-
-### stats
-
-<div align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=Tani-2005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9d7cd8&icon_color=9d7cd8&text_color=8b949e&count_private=true&hide_title=true"/>
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tani-2005&layout=compact&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=8b949e&hide_title=true"/>
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Tani-2005&show_icons=true&hide_border=true&bg_color=0d0221&title_color=b388ff&icon_color=7b5ea7&text_color=9d7cd8&count_private=true"/>
+  &nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tani-2005&layout=compact&hide_border=true&bg_color=0d0221&title_color=b388ff&text_color=9d7cd8"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tani-2005&theme=midnight-purple&hide_border=true&background=0d0221&ring=b388ff&fire=9d7cd8&currStreakLabel=b388ff"/>
+</p>
 
 ---
 
-<div align="center">
+## 🌑 &nbsp;connect
 
-[linkedin](https://linkedin.com/in/tanya-deep-28bb14331) · [email](mailto:tanya.s.deep@gmail.com) · [github](https://github.com/Tani-2005)
+<p align="center">
+  <a href="https://linkedin.com/in/tanya-deep-28bb14331">
+    <img src="https://img.shields.io/badge/LinkedIn-2b003a?style=for-the-badge&logo=linkedin&logoColor=e0d0ff"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tanya.s.deep@gmail.com">
+    <img src="https://img.shields.io/badge/Email-3a005c?style=for-the-badge&logo=gmail&logoColor=e0d0ff"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Tani-2005">
+    <img src="https://img.shields.io/badge/GitHub-1a001f?style=for-the-badge&logo=github&logoColor=e0d0ff"/>
+  </a>
+</p>
 
-<sub>bengaluru, india · open to relocate · she/her</sub>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tani-2005&style=for-the-badge&color=9d7cd8&labelColor=0d0221&label=visitors"/>
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0d0221,50:2d0a4e,100:4b0082"/>
+</p>
