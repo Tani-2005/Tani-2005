@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0221,40:2d0a4e,100:4b0082&text=Tanya%20Deep&fontColor=e0d0ff&fontSize=46&fontAlignY=38&desc=tani-2005%20%E2%80%A2%20she%2Fher%20%E2%80%A2%20bengaluru&descSize=15&descAlignY=58&descFontColor=9d7cd8&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=B388FF&center=true&vCenter=true&width=620&lines=Health+AI+%C2%B7+ML+Engineer+%C2%B7+Data+Scientist;195+countries+%C2%B7+975+nodes+%C2%B7+zero+manual+entry;Google+Student+Ambassador+%F0%9F%8C%8D;Open+to+EU+Internships+%E2%80%94+Lausanne+Jul+2026+%E2%9C%88%EF%B8%8F;%22Code+is+not+just+logic+%E2%80%94+it%27s+atmosphere.%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=B388FF&center=true&vCenter=true&width=620&lines=Health+AI+%C2%B7+ML+Engineer+%C2%B7+Data+Scientist;195+countries+%C2%B7+975+nodes+%C2%B7+zero+manual+entry;Google+Student+Ambassador+%F0%9F%8C%8D;Open+to+EU+Internships+%E2%80%94+Jul+2026+%E2%9C%88%EF%B8%8F;%22Code+is+not+just+logic+%E2%80%94+it%27s+atmosphere.%22" />
 </p>
 
 ---
