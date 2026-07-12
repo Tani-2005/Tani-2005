@@ -24,7 +24,7 @@
 ```yaml
 name      : Tanya Deep
 college   : BMSIT&M, Bengaluru  ·  B.E. Information Science Engineering
-cgpa      : 8.43 / 10
+cgpa      : 8.5 / 10
 role      : Google Student Ambassador · Data Scientist
 
 focus:
